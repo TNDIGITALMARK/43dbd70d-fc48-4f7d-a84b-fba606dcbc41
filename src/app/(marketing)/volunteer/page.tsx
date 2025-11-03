@@ -62,7 +62,7 @@ export default function VolunteerPage() {
           <div className="absolute inset-0 bg-gradient-to-b from-black/40 to-black/60" />
         </div>
         <div className="relative h-full max-w-7xl mx-auto px-6 flex items-center">
-          <div className="max-w-2xl text-white">
+          <div className="max-w-2xl hero-text-light">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">
               Volunteer With Us
             </h1>

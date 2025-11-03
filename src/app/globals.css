@@ -292,3 +292,11 @@ img {
 .img-circle {
   border-radius: 50%;
 }
+
+/* === HERO SECTION UTILITIES === */
+.hero-text-light h1,
+.hero-text-light h2,
+.hero-text-light p {
+  color: white !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
